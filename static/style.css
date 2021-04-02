@@ -3,15 +3,11 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: green;
-}
-
 form {
     display: inline-block;
     margin: 10px;
     padding: 15px;
-    width: 40%;
+    width: 50%;
     border: 1px gray solid;
     border-radius: 2%;
     text-align: left;
@@ -43,4 +39,9 @@ button {
     font-size: large;
     border: 1px solid darkgreen;
     border-radius: 8%;
+}
+
+.feedback {
+    text-align: center;
+    font-size: xx-large;
 }
