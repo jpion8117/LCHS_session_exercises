@@ -10,9 +10,9 @@ def index():
     if request.method == 'POST':
         pass
     else:
-        start_value = 1
-        end_value = 50
-        magic_number = random.randint(start_value, end_value)
+        low_value = 1
+        high_value = 50
+        magic_number = random.randint(low_value, high_value)
 
     return render_template('index.html')
 
