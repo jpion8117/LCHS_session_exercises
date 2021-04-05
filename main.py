@@ -14,7 +14,10 @@ def index():
         high_value = 50
         magic_number = random.randint(low_value, high_value)
 
-    return render_template('index.html')
+
+        message = ''
+
+    return render_template('index.html', message = message)
 
 if __name__ == '__main__':
     app.run()
