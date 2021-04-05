@@ -20,4 +20,4 @@ pip install Flask
 ```
 
 ## Note
-The textbook page is under development. When deployed, access the **Exercises: Flask Sessions** here: https://education.launchcode.org/lchs/chapters/sessions/exercises.html.
+The textbook page is under development. When deployed, access it here: https://education.launchcode.org/lchs/chapters/sessions/exercises.html.
