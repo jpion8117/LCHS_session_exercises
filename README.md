@@ -15,7 +15,7 @@ pip3 install Flask
 *Windows (GitBash)*
 ```
 py -3 -m venv environment_name
-. enviromnent_name/Scripts/activate
+. environment_name/Scripts/activate
 pip install Flask
 ```
 
