@@ -1,5 +1,5 @@
 # LCHS_session_exercises
-This starter code corresponds to the instructions found in the **Exercises: Flask Sessions** page of the [LCHS textbook](https://education.launchcode.org/lchs/index.html).
+This starter code corresponds to the instructions found in the [**Exercises: Flask Sessions**](https://education.launchcode.org/lchs/chapters/sessions/exercises.html) page of the [LCHS textbook](https://education.launchcode.org/lchs/index.html).
 
 ## Flask Setup
 After cloning this repo, users will need to create a virtual environment, activate it, and then install Flask. Use a command line interface to navigate into the project folder,
@@ -18,6 +18,3 @@ py -3 -m venv environment_name
 . environment_name/Scripts/activate
 pip install Flask
 ```
-
-## Note
-The textbook page is under development. When deployed, access it here: https://education.launchcode.org/lchs/chapters/sessions/exercises.html.
