@@ -14,7 +14,6 @@ def index():
         high_value = 50
         magic_number = random.randint(low_value, high_value)
 
-
         message = ''
 
     return render_template('index.html', message = message)
