@@ -12,9 +12,9 @@ def index():
     else:
         low_value = 1
         high_value = 50
-        magic_number = random.randint(low_value, high_value)
-        
-
+        session['magic_number'] = random.randint(low_value, high_value)
+        session['low_value'] = low_value
+        session['high_value'] = high_value
         message = ''
 
     return render_template('index.html', message = message)
