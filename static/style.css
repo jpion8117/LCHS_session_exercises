@@ -43,5 +43,6 @@ button {
 
 .feedback {
     text-align: center;
+    color: firebrick;
     font-size: xx-large;
 }
